@@ -1,0 +1,44 @@
+html{
+    font-size: 10px;
+    font-family: NSimSun;
+    background-color: rgb(29, 138, 233);
+}
+body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+p {
+    color: rgb(105, 27, 230);
+    text-shadow: rgb(190, 12, 48);
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+  }
+
+a:hover{
+    color: rgb(247, 27, 27);
+    width: 1000px;
+    border: 1px solid rgb(20, 236, 67);
+}
+
+li:hover{
+    color: rgb(214, 34, 160);
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+  }
+
+h1{
+    font-size: 60px;
+    text-align: center;
+}
